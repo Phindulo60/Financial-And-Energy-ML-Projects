@@ -16,3 +16,12 @@ This code performs modeling and analysis on the Effective Federal Funds Rate, a 
 - Model tuning: The Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Multi-Layer Perceptron Regressor models are tuned using grid search and cross-validation. This process involves systematically testing different combinations of hyperparameters and selecting the ones that yield the best performance. The best hyperparameters for each model are displayed, along with their corresponding R-squared scores.
 
 - Best model selection: The code selects the models with the highest R-squared scores on the validation set as the best models for predicting the Effective Federal Funds Rate. These models demonstrate the strongest performance and are deemed most suitable for accurate predictions.
+
+# Project 2 [renewable energy Project]
+### Problem Statement
+I am an in-house data scientist for a renewable energy firm focussing on wind and solar power. I have been tasked with analyzing the latest field data with various measurements for their wind turbines. In addition to the analysis, i must build a model that predicts the power, in kW/h, the turbines generate.
+### Objectives
+The following objectives need were met:
+• Performed appropriate data cleaning and preparation to ensure good model performance.
+• Built a machine learning model that predicts the power generated.
+• Evaluated and tuned the model.
