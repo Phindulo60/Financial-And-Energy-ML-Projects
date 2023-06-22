@@ -22,6 +22,6 @@ This code performs modeling and analysis on the Effective Federal Funds Rate, a 
 I am an in-house data scientist for a renewable energy firm focussing on wind and solar power. I have been tasked with analyzing the latest field data with various measurements for their wind turbines. In addition to the analysis, i must build a model that predicts the power, in kW/h, the turbines generate.
 ### Objectives
 The following objectives need were met:
-• Performed appropriate data cleaning and preparation to ensure good model performance.
-• Built a machine learning model that predicts the power generated.
-• Evaluated and tuned the model.
+- Performed appropriate data cleaning and preparation to ensure good model performance.
+- Built a machine learning model that predicts the power generated.
+- Evaluated and tuned the model.
